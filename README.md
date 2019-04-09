@@ -5,7 +5,7 @@
 
 
 ## How to Use
-
+- Chromedriver 는 사용중인 Chrome 버전에 맞게 따로 설치해주시기 바랍니다.
 - `git clone https://github.com/sprumin/Googler.git`
 - `cd Googler`
 - `pip install -r requirements.txt`
